@@ -1,0 +1,25 @@
+body {
+  font-family: "Noto Sans Mono", monospace;
+  color: rgb(88, 100, 112);
+}
+.mainBox {
+  font-size: 20px;
+}
+#current-city {
+  font-size: 40px;
+}
+.mainBoxT {
+  font-size: 60px;
+  color: rgb(73, 119, 73);
+}
+#celsius-link {
+  text-decoration: none;
+  color: rgb(73, 119, 73);
+}
+#fahrenheit-link {
+  text-decoration: none;
+  color: rgb(73, 119, 73);
+}
+#current-place {
+  background-color: aquamarine;
+}
